@@ -1,0 +1,47 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+}
+.bat-1 img{
+    width: 88%;
+    
+}
+.bat-4 img{
+    width:65% ;
+
+}
+.bat-4{
+    width:60% ;
+    height:50% ;
+    padding:2% ;
+}
+.color1{
+    color: darkslategray;
+}
+.bat-1{
+    width: 50%;
+    padding: 2%;
+}
+.flexibal-1{
+    display: flex;
+    margin-bottom: 150px;
+}
+.bat2{
+    background-image:url(images/top-banner.png);
+    
+    background-repeat: no-repeat;
+    
+}
+.bat-3 {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.bat3{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(gray , black);
+    color: gray;
+    font-weight: 700;
+    border-radius: 5px;
+}
