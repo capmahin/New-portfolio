@@ -1,84 +1,84 @@
-body{
-    font-family: sans-serif;
-    margin: 0;
+body {
+  font-family: sans-serif;
+  margin: 0;
+  width: 100%;
+  overflow: hidden;
 }
-h1{
-    font-size: 50px;
-}
-h2{
-    font-size: 40px;
-}
-.bat-1 img{
-    width: 88%;
-    
-}
-.bat-4 img{
-    width:65% ;
 
+h1 {
+  font-size: 50px;
 }
-.bat-4{
-    width:60% ;
-    height:50% ;
-    padding:2% ;
+h2 {
+  font-size: 40px;
 }
-.color1{
-    color: darkslategray;
+.bat-1 img {
+  width: 88%;
 }
-.bat-1{
-    width: 50%;
-    padding: 2%;
+.bat-4 img {
+  width: 65%;
 }
-.flexibal-1{
-    display: flex;
-    margin-bottom: 150px;
+.bat-4 {
+  width: 60%;
+  height: 50%;
+  padding: 2%;
 }
-.bat2{
-    background-image:url(images/top-banner.png);
-    
-    background-repeat: no-repeat;
-    
+.color1 {
+  color: darkslategray;
+}
+.bat-1 {
+  width: 50%;
+  padding: 2%;
+}
+.flexibal-1 {
+  display: flex;
+  margin-bottom: 150px;
+}
+.bat2 {
+  background-image: url(images/top-banner.png);
+
+  background-repeat: no-repeat;
 }
 .bat-3 {
-    background-image: url(images/dream-bg.png);
-    background-repeat: no-repeat;
-    background-position: left;
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
 }
-.bat3{
-    text-decoration: none;
-    padding: 10px 40px;
-    background-image: linear-gradient(gray , black);
-    color: gray;
-    font-weight: 700;
-    border-radius: 5px;
+.bat3 {
+  text-decoration: none;
+  padding: 10px 40px;
+  background-image: linear-gradient(gray, black);
+  color: gray;
+  font-weight: 700;
+  border-radius: 5px;
 }
-.Expariance-bat{
-    background-image: url(images/exp-bg.png);
-    background-repeat: no-repeat;
-    background-position: left;
+.Expariance-bat {
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
 }
-.bat-iteam{
-    box-shadow: 10px 10px 40px grey;
-    width: 40%;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding-left: 20px;
-    border-radius: 10px;
-    border-left: 10px solid;
+.bat-iteam {
+  box-shadow: 10px 10px 40px grey;
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 20px;
+  border-radius: 10px;
+  border-left: 10px solid;
 }
-#batman0{
-    border-left: 7x solid;
-    border-image: linear-gradient(black  , purple);
-    border-image-slice: 1;
+#batman0 {
+  border-left: 7x solid;
+  border-image: linear-gradient(black, purple);
+  border-image-slice: 1;
 }
-#batman1{
-    border-left: 7x solid;
-    border-image: linear-gradient(purple  , black);
-    border-image-slice: 1;
+#batman1 {
+  border-left: 7x solid;
+  border-image: linear-gradient(purple, black);
+  border-image-slice: 1;
 }
-.justic-1{
-    width: 50%;
-    padding: 15%;
+.justic-1 {
+  width: 50%;
+  padding: 15%;
 }
-footer p{
-    text-align: center;
+footer p {
+  text-align: center;
 }
